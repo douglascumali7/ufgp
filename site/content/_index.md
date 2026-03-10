@@ -1,13 +1,11 @@
 ---
 title: The United Federated Galaxies and Planets Website
 subtitle: "By Douglas Cumali the United Federated Galaxies and Planets President "
-image: /img/home-jumbotron.jpg
+image: img/1000000084.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: The space time navigators guild foundation here on Earth
+  text: As a grandmaster FaceTime navigator of intergalactic start fleet I have
+    been navigating our planet out from the grips of a massive black hole
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
